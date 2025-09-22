@@ -17,8 +17,8 @@ La aplicación se comunica con una API construida en **Ruby on Rails**.
 Clona el repositorio e instala las dependencias:
 
 ```bash
-git clone <URL_DEL_REPO>
-cd <NOMBRE_DEL_PROYECTO>
+git clone git@github.com:NaimGrimaldo/invoice-finder.git
+cd invoice-finder
 npm install
 ```
 
